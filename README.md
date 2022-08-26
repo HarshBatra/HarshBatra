@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/harsh-batra-b793951ab">
-<img align="center" width="1000" height="200" src="https://d3ui957tjb5bqd.cloudfront.net/uploads/2015/03/laceymicallef.gif"/>
+<img align="center" width="800" height="200" src="https://d3ui957tjb5bqd.cloudfront.net/uploads/2015/03/laceymicallef.gif"/>
 </a>
 <h1 align="center">Hi 👋, I'm Harsh Batra</h1>
 <h3 align="center">A passionate MERN Stack Web Developer, Programming enthusiast, Graphic & UI/UX Designer & Digital Artist.</h3>
