@@ -1,19 +1,15 @@
 <a href="https://www.linkedin.com/in/harsh-batra-b793951ab">
-<img align="center" width="800" height="200" src="https://d3ui957tjb5bqd.cloudfront.net/uploads/2015/03/laceymicallef.gif"/>
+<img align="center" height="300" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 </a>
 <h1 align="center">Hi 👋, I'm Harsh Batra</h1>
-<h3 align="center">A passionate MERN Stack Web Developer, Programming enthusiast, Graphic & UI/UX Designer & Digital Artist.</h3>
+<h3 align="center">Full Stack Web Developer and Programming Enthusiast</h3>
 <img align="right" width="400" alt="coding" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"></img>
 
-- 🌱 I’m currently learning **Blockchain and Web 3.0 Technology.**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB, MySQL, MERN, UX Design, Data Structures & Algorithms**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, MERN, UX Design, Data Structures & Algorithms**
 
 - 📫 How to reach me **harshbat22@gmail.com**
 
 - 🔥Currently pursuing **B.Tech. Biotechnology**🧬 at **Delhi Technological University(DTU)** 👨‍💻
-
-- 📄 Know about my experiences: [MyResume](https://drive.google.com/file/d/1eUIsXnATVw1GJ4OpELz4V2cKNOoshv9u/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
